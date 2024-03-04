@@ -10,12 +10,10 @@ User-friendly interface for easy navigation
 Reliable data sources ensuring accuracy
 
 ---
-
-#Contributions
 Contributions to this project are welcome! Feel free to submit pull requests for bug fixes, feature enhancements, or additional data sources to improve the application's functionality and reliability.
 
 ---
-#Demo
+Demo:
 https://covid-19-app-ea5bf.web.app/
 
 ---
