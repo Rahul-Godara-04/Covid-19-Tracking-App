@@ -13,7 +13,3 @@ Reliable data sources ensuring accuracy
 Contributions to this project are welcome! Feel free to submit pull requests for bug fixes, feature enhancements, or additional data sources to improve the application's functionality and reliability.
 
 ---
-Demo:
-https://covid-19-app-ea5bf.web.app/
-
----
